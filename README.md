@@ -31,3 +31,6 @@ Figure 6. Driver performing the nighttime contrast enhancement application where
 driver’svision field is increased. Upper and lower portions represent the driver’s vision field
 before and after using the application.
 
+![image](https://github.com/smartCarLab/smartCar/blob/master/image/image7.png?raw=true)
+
+Figure 7. Smart car need a plenty of sensior to sense environment for more accurate determination.
